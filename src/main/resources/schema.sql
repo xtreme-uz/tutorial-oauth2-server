@@ -1,4 +1,3 @@
-/* SET sql_mode = ''; */
 
 create table if not exists  oauth_client_details (
   client_id varchar(255) primary key,

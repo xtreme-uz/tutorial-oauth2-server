@@ -15,12 +15,6 @@ spring:
       hibernate:
         show_sql: true
         format_sql: true
-  security:
-    oauth2:
-      client:
-        provider:
-          sso-provider:
-            user-info-uri: http://localhost:9191/users/me
 logging:
   level:
     org:

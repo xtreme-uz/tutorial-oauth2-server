@@ -1,3 +1,5 @@
+/* The data.sql file has been changed to data.txt after data entry */
+
 INSERT INTO oauth_client_details
 (client_id,
  client_secret,
